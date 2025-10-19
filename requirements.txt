@@ -1,0 +1,34 @@
+# requirements.txt
+transformers
+
+torch
+peft
+accelerate
+
+bitsandbytes
+
+datasets
+
+sentencepiece
+
+protobuf
+
+evaluate
+sacrebleu
+nltk
+pandas
+numpy
+
+scikit-learn
+tqdm
+
+wandb
+
+stanza
+indic-nlp-library
+python-Levenshtein
+
+bert-score
+
+
+# -------------------
